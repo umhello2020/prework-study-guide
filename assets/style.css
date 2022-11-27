@@ -9,12 +9,12 @@ footer {
     height: 120px;
     background-color: blue;
     color: white;
-}
 
 h1,
 h2 {
     text-align: center;
 }
+
 img {
     display: block;
     height: 50px;
